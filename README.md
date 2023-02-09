@@ -19,4 +19,6 @@ In this way, a large number of players are produced in the game (300 in that pro
 - player.py : Contains the player class to create the player(s) in the scene.
 - variables.py : Contains public variables that are shared between files.
 
+## Known Issues
+In this project we used trial and error to find the best hyperparameters, activation functions and more. So if you find something that works better, feel free to create an issue on this repository
 
